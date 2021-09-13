@@ -6,5 +6,6 @@ int nom1();
 int nom2();
 int main()
 {
+
 	nom2();
 }
